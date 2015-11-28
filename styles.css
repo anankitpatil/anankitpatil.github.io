@@ -1,4 +1,24 @@
 /* anankitpaitil.github.io */
 html, body {
+	padding: 0px;
+	margin: 0px;
 	font-family: 'Yantramanav', sans-serif;
+	color: #222;
+	font-weight: 400;
+}
+
+.header {
+	background: #EFEFEF;
+	border-bottom: 1px solid #D0D0D0;
+}
+.header h1 {
+	margin-bottom: 0px;
+	font-size: 48px;
+	line-height: 60px;
+}
+.header h4 {
+	margin-top: 6px;
+	line-height: 24px;
+	font-weight: 300;
+	color: #676767;
 }
